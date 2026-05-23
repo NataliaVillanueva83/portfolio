@@ -13,9 +13,9 @@ export function Hero({ setSeccionActiva }) {
             <h1 className="pf-hero-name">
               Natalia<span className="hl">Villanueva</span>
             </h1>
-            <p className="pf-hero-role">Desarrollador Fullstack</p>
+            <p className="pf-hero-role">Desarrollador Backend</p>
             <p className="pf-hero-bio">
-                     Desarrollador backend con experiencia en JavaScript, PHP
+                     "Desarrolladora Backend. Me especializo en construir la lógica y arquitectura detrás de escena, creando APIs robustas y bases de datos eficientes con Java, Spring Boot, PHP y Node.js. Entusiasta de Linux y la administración de servidores."
             </p>
             <div className="pf-hero-btns">
               <button className="pf-btn pf-btn-p" onClick={() => setSeccionActiva('projects')}>Ver proyectos →</button>
